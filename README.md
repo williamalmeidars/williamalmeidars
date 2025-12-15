@@ -18,7 +18,7 @@ I currently work at a developer.
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,notion,postman,python,redhat,sqlite,CSharp)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,notion,postman,python,redhat,sqlite,lua,)
 
 ## 📊 GitHub Stats
 
