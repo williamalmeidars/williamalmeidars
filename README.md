@@ -23,9 +23,6 @@ Tenho perfil autodidata, foco em qualidade de código, performance e segurança,
 
 ## 🛠️ Tecnologias & Ferramentas
 
-
-## ⚙️ Stack Principal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,python,go,c,cs,lua,react,vue,tailwind,html,mysql,postgres,mongodb,sqlite,docker,linux,aws,azure,cloudflare,git,github,gitlab,tensorflow,pytorch,androidstudio" />
 </p>
