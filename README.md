@@ -22,7 +22,7 @@ I currently work at a developer.
 
 ## 📊 GitHub Stats
 
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=60&theme=github_dark)
+![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=60&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimdev&cache_seconds=60&theme=github_dark)
 
 ---
