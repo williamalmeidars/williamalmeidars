@@ -10,7 +10,7 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
     🔌 APIs and automations
 
-    ☁️ Infrastructure & Hosting – CEO of my own hosting company
+    ☁️ Infrastructure & Hosting 
 
 I currently work at **Santinvest CFI** as a developer.
 
