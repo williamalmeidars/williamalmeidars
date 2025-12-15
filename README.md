@@ -1,17 +1,7 @@
 👋 **Hi, I'm William!**
 
 I'm a full stack developer passionate about creating solutions with AI, with experience in:
-
-    🧠 Artificial Intelligence & AI Agents: PyTorch, TensorFlow, agent development and integration
-
-    🌐 Web Development: PHP, Laravel, Node.js, JavaScript
-
-    🐘 Databases: MySQL, PostgreSQL SQL Server, MongoDB
-
-    🔌 APIs and automations
-
-    ☁️ Infrastructure & Hosting 
-
+---
 I currently work at a developer.
 
 ---
