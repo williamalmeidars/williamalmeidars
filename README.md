@@ -1,24 +1,28 @@
-<h1 align="center">🚀 William Almeida</h1>
+
+# 👋 William Almeida
 
 <p align="center">
-  <b>Full Stack Developer • Eletrônica • Automação • Cloud</b>
+  <b>Desenvolvedor Full Stack • Sistemas • Eletrônica • Automação</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=williamalmeidars&style=flat-square&color=blue" />
+  <i>"Transformando ideias em soluções robustas, seguras e escaláveis."</i>
 </p>
 
 ---
 
-## 🧠 Quem sou eu
+## 🚀 Sobre mim
 
-Desenvolvedor full stack com experiência em programação desde os 6 anos de idade. Atuo na criação de sistemas robustos, escaláveis e seguros, integrando software, eletrônica e automação.
+Sou desenvolvedor full stack com experiência em programação desde os 6 anos de idade. Possuo forte domínio em desenvolvimento de software, arquitetura de sistemas, eletrônica aplicada e sistemas de alarme, unindo hardware e software para criar soluções eficientes, seguras e de alto desempenho.
 
-Tenho forte atuação em desenvolvimento web, APIs, sistemas distribuídos, infraestrutura em nuvem e DevOps. Também trabalho com inteligência artificial e machine learning aplicados a problemas reais.
+Atuo no desenvolvimento de aplicações web, APIs, sistemas distribuídos e automação, com experiência prática em ambientes Linux, cloud computing, containers e DevOps. Também trabalho com inteligência artificial e machine learning, aplicando modelos para resolver problemas reais.
 
-Perfil autodidata, focado em arquitetura limpa, performance, segurança e evolução contínua.
+Tenho perfil autodidata, foco em qualidade de código, performance e segurança, além de facilidade para aprender novas tecnologias e enfrentar desafios complexos.
 
 ---
+
+## 🛠️ Tecnologias & Ferramentas
+
 
 ## ⚙️ Stack Principal
 
@@ -38,36 +42,36 @@ Perfil autodidata, focado em arquitetura limpa, performance, segurança e evolu�
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=williamalmeidars&theme=github-dark&hide_border=true" />
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧩 Áreas de Atuação
-
-- Desenvolvimento Full Stack
+## 🧩 Áreas de Interesse
 - Arquitetura de Sistemas
-- Eletrônica & Automação
-- Cloud Computing & DevOps
+- Automação & Eletrônica
 - Segurança da Informação
+- Computação em Nuvem
 - Inteligência Artificial
+- Sistemas de Alto Desempenho
 
 ---
 
-## 🛠️ Filosofia de Código
-
-- Código limpo e manutenível  
-- Arquitetura bem definida  
-- Segurança como prioridade  
-- Performance sem gambiarra  
-- Automação sempre que possível  
-
----
-
-## 📬 Contato
-
-- GitHub: https://github.com/williamalmeidars
+## 📫 Contato
+- GitHub: https://github.com/SEU_USUARIO
 
 ---
 
 <p align="center">
-  <i>“Tecnologia bem feita é aquela que funciona, escala e se mantém.”</i>
+  <i>⚡ Código limpo, sistemas fortes e soluções inteligentes.</i>
 </p>
+
