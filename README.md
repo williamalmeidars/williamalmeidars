@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 **Hi, I'm William!**
 
-<!--
-**williamalmeidars/williamalmeidars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer passionate about creating solutions with AI, with experience in:
 
-Here are some ideas to get you started:
+    🧠 Artificial Intelligence & AI Agents: PyTorch, TensorFlow, agent development and integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌐 Web Development: PHP, Laravel, Node.js, JavaScript
+
+    🐘 Databases: MySQL, PostgreSQL SQL Server, MongoDB
+
+    🔌 APIs and automations
+
+    ☁️ Infrastructure & Hosting – CEO of my own hosting company
+
+I currently work at **Santinvest CFI** as a developer.
+
+---
+
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,notion,postman,python,redhat,sqlite)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,notion,postman,python,redhat)
+
+---
+
+## 📊 GitHub Stats
+
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=60&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimdev&cache_seconds=60&theme=github_dark)
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://linkedin.com/)
+- 🌐 [Hosting]()
+- ✉️ william
