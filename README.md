@@ -1,9 +1,5 @@
 👋 **Hi, I'm William!**
 
-I'm a full stack developer passionate about creating solutions with AI, with experience in:
----
-I currently work at a developer.
-
 ---
 
 ## 🚀 Tech Stack
