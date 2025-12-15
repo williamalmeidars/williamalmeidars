@@ -12,7 +12,7 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
     ☁️ Infrastructure & Hosting 
 
-I currently work at **Santinvest CFI** as a developer.
+I currently work at a developer.
 
 ---
 
