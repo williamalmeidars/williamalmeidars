@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full stack com experiência em programação desde os 6 anos de idade. Possuo forte domínio em desenvolvimento de software, arquitetura de sistemas, eletrônica aplicada e sistemas de alarme, unindo hardware e software para criar soluções eficientes, seguras e de alto desempenho.
+Sou desenvolvedor full stack com experiência em programação desde os 11 anos de idade. Possuo forte domínio em desenvolvimento de software, arquitetura de sistemas, eletrônica aplicada e sistemas de alarme, unindo hardware e software para criar soluções eficientes, seguras e de alto desempenho.
 
 Atuo no desenvolvimento de aplicações web, APIs, sistemas distribuídos e automação, com experiência prática em ambientes Linux, cloud computing, containers e DevOps. Também trabalho com inteligência artificial e machine learning, aplicando modelos para resolver problemas reais.
 
